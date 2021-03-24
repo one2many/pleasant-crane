@@ -7,7 +7,7 @@
         "title": "Andrew M",
         "profile_img": "images/AndrewProfile.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
