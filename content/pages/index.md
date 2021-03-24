@@ -5,7 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     content: |
-      > *Time makes more converts than reason. Thomas Paine*
+      > *Time makes more converts than reason. 
+      > from Common Sense by Thomas Paine*
     title: Andrew M
   - section_id: about
     type: section_content
