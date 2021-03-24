@@ -4,9 +4,8 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      *"Time makes more converts than reason"*
     title: Andrew M
   - section_id: about
     type: section_content
