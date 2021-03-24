@@ -5,7 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     content: |
-      *Time makes more converts than reason*
+      > *Time makes more converts than reason*
+
+      > *Thomas Paine*
     title: Andrew M
   - section_id: about
     type: section_content
