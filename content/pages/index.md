@@ -13,10 +13,10 @@ sections:
     type: section_content
     title: About
     content: >
-      When it comes to the intersection of media and technology, I have been
-      lucky enough to work with some very smart people and great companies.  I
-      strive to help companies adapt processes, train people, and grow with new
-      technology.
+      Over the past 10 years, I have been lucky enough to operate at the
+      intersection of media and technology with some very smart people and great
+      companies.  I strive to help companies adapt processes, train people, and
+      grow with new technology.
     actions:
       - label: Contact Me
         url: /contact
