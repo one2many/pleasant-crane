@@ -1,5 +1,5 @@
 ---
-title: Stop saying that technology killed Newspapers
+title: Stop saying that technology killed newspapers
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
