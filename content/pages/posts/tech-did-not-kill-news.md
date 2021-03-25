@@ -44,8 +44,6 @@ layout: post
 thumb_img_path: images/7.jpg
 content_img_path: images/important-aspen.jpeg
 ---
-"Creative destruction: Newspaper ad revenue continued its precipitous free fall in 2014, and it's likely to continue" from the Carpe Diem blog from the American Enterprise Institute has become famous in the past 5 years for visualizing, albeit in isolation, the decline in newspaper revenue. While these charts show a sharp drop in revenue starting in 2007, there is very little explanation other than print newspaper advertising is failing.
-
 ## What is wrong with this perspective?
 
 Historically, newspapers received at least 80undefined of revenue from advertising. We read about ad revenue drops and newsroom layoffs, with little to no analysis of advertising categories that support the newsroom.
