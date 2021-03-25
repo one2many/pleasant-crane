@@ -43,13 +43,13 @@ layout: post
 ---
 "Creative destruction: Newspaper ad revenue continued its precipitous free fall in 2014, and it's likely to continue" from the Carpe Diem blog from the American Enterprise Institute has become famous in the past 5 years for visualizing, albeit in isolation, the decline in newspaper revenue. While these charts show a sharp drop in revenue starting in 2007, there is very little explanation other than print newspaper advertising is failing.
 
-
-
 ## What is wrong with this perspective?
 
 Historically, newspapers received at least 80% of revenue from advertising and the remainder from circulation/distribution and other revenue sources, and since 2014 this has shifted closer to 60% of revenue from advertising. We read about ad revenue drops and newsroom layoffs, with little to no analysis of advertising categories that support the newsroom.
 
 A quick glance at the table below provides some basic insights into what actually happened.
+
+![](/images/revenuechangenp.png)
 
 First, starting in 2003–2004 revenue from classified channels (cars, homes, jobs) dropped by a much larger percentage than either retail or national advertising. By 2007, national advertising represented a smaller portion of revenue than other channels.
 
@@ -76,7 +76,6 @@ Starting in 2007, newspapers experienced an unpredictable decline in revenue tha
 4.  It was never (only) about getting news
     Depending on the region and publication, upwards of 30% of subscribers get the print for the ads. Is this an exaggeration, perhaps. In 2012, we conducted a nationwide study of 4,781 newspaper subscribers and found that only 15% have no interest in receiving coupons in the mail or in the newspaper. While 28% preferred direct mail, over 50% wanted coupons in the newspaper. Taken another way, this seems to indicate that 43% (15% no coupon + 28% direct mail) get the newspaper only for the news.
 
-
 ### Two Technology Changes that Really Impacted Newspaper Revenue
 
 1.  Mobile - iPhone & Android
@@ -85,7 +84,6 @@ Starting in 2007, newspapers experienced an unpredictable decline in revenue tha
 2.  Standards Reduce the Power of Suppliers and Create Marketplaces
     The Internet Advertising Board (IAB) sets the guidelines for the advertiser and online publishers. The board of the IAB is comprised of major publishers and advertisers and is analogous to the board for Alliance for Audited Media (the AAM, formerly the Audit Bureau of Circulation). 
     While the standards set by the IAB helped large advertisers by providing a common set of creative that could be used on multiple publications, the standards decreased CPM for publishers and prevented local publishers from charging placement premiums. The evolution from standards to market-based bidding further reduced average CPM and gave advertisers even more reach for the same dollar. To offset decreased CPM, publishers increased the number of ad units per page and negatively impacted user experience.
-
 
 Early Internet Leaders
 
