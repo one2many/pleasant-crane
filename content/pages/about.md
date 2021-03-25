@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: From commodity to currency
-img_path: images/about.jpg
+img_path: images/tribulation.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
