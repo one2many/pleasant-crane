@@ -11,7 +11,9 @@ content_img_path: images/important-aspen.jpeg
 content_img_alt: Icelandic horses
 seo:
   title: Technology did not kill newspapers
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: >-
+    Historically, newspapers received at least 80% of revenue from advertising
+    and the remainder from circulation/distribution and other revenue sources
   extra:
     - name: 'og:type'
       value: article
