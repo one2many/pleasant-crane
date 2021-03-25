@@ -85,6 +85,6 @@ Starting in 2007, newspapers experienced an unpredictable decline in revenue tha
     The Internet Advertising Board (IAB) sets the guidelines for the advertiser and online publishers. The board of the IAB is comprised of major publishers and advertisers and is analogous to the board for Alliance for Audited Media (the AAM, formerly the Audit Bureau of Circulation). 
     While the standards set by the IAB helped large advertisers by providing a common set of creative that could be used on multiple publications, the standards decreased CPM for publishers and prevented local publishers from charging placement premiums. The evolution from standards to market-based bidding further reduced average CPM and gave advertisers even more reach for the same dollar. To offset decreased CPM, publishers increased the number of ad units per page and negatively impacted user experience.
 
-Early Internet Leaders
+### Early Internet Leaders
 
 While it is difficult to think back to the dial-up days, it is even more challenging to truly think about the recent past, the internet pre-Google or pre-mobile. Technology was expensive and required capital .Newspapers invested heavily in internet technologies early and were often one of only a handful of companies in a region actually updating a website on a daily basis. So, before dismissing the newspapers as out-of-touch with technology, try to imagine a time before WordPress, before Blogger, before AWS, Azure and Heroku, before BootStrap and Shopify.
