@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: 'Industry metrics: Is it time to say goodbye to the pageview?'
 subtitle: lorem-ipsum
 date: '2018-01-09'
 thumb_img_alt: Hikers on the trail
