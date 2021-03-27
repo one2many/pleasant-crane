@@ -5,7 +5,7 @@ date: '2018-01-09'
 thumb_img_alt: Hikers on the trail
 content_img_alt: Hikers on the trail
 excerpt: >-
-  The changing landscape means news organizations  asically are start-up
+  The changing landscape means news organizations basically are start-up
   companies, pioneers and inventors full of fresh ideas. 
 seo:
   title: Basic Rules For Walking In The Mountains
