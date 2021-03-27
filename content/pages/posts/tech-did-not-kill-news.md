@@ -34,8 +34,8 @@ seo:
       value: 'Technology did not kill the news industry '
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Historically, news organizations received at least 80% of revenue from
+        advertising. 
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
