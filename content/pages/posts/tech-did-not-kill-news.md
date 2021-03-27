@@ -37,7 +37,7 @@ seo:
         Historically, news organizations received at least 80% of revenue from
         advertising. 
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: /images/creativedestruction.jpeg
       relativeUrl: true
 layout: post
 thumb_img_path: images/7.jpg
