@@ -31,7 +31,7 @@ sections:
         style: button
 seo:
   title: Andrew McFadden
-  description: The preview of the Fresh theme
+  description: My personal site has some of the articles I have published over the years.
   extra:
     - name: 'og:type'
       value: website
