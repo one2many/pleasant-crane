@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: 'Industry metrics: Is it time to say goodbye to the pageview?'
     - name: 'twitter:description'
       value: >-
         The changing landscape means newspapers basically are start-up
