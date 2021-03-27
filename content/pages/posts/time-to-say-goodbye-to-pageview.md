@@ -1,6 +1,6 @@
 ---
 title: 'Industry metrics: Is it time to say goodbye to the pageview?'
-subtitle: lorem-ipsum
+subtitle: Article originally appeared on INMA.org
 date: '2018-01-09'
 thumb_img_alt: Hikers on the trail
 content_img_alt: Hikers on the trail
