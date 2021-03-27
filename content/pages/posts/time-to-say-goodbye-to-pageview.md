@@ -5,10 +5,8 @@ date: '2018-01-09'
 thumb_img_alt: Hikers on the trail
 content_img_alt: Hikers on the trail
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  The changing landscape means newspapers basically are start-up companies,
+  pioneers and inventors full of fresh ideas. 
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
