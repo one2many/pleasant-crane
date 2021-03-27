@@ -25,7 +25,7 @@ seo:
         advertising. 
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: /images/creativedestruction.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
