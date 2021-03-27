@@ -21,8 +21,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        Historically, news organizations received at least 80% of revenue from
+        advertising. 
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
