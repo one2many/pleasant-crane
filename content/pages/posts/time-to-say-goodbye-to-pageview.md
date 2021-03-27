@@ -40,7 +40,7 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: images/6.jpg
+thumb_img_path: images/intro.jpg
 content_img_path: images/6.jpg
 ---
 The changing landscape means newspapers basically are start-up companies, pioneers and inventors full of fresh ideas. In 2011, the Press-Enterprise traded the pageview and other metrics to more proactive and meaningful analytics, dividing consumers up into the top, middle, and bottom of the funnel.
