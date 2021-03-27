@@ -1,6 +1,6 @@
 ---
 title: Stop saying that technology killed newspapers
-date: '2019-03-27'
+date: '2021-03-27'
 thumb_img_alt: Icelandic horses
 content_img_alt: Icelandic horses
 seo:
