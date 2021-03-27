@@ -36,7 +36,7 @@ seo:
       value: /images/creativedestruction.jpeg
       relativeUrl: true
 layout: post
-thumb_img_path: images/7.jpg
+thumb_img_path: images/creativedestruction.jpeg
 content_img_path: images/important-aspen.jpeg
 excerpt: >-
   Historically, news organizations received at least 80%of revenue from
