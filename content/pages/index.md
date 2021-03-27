@@ -30,7 +30,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Andrew McFadden
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
