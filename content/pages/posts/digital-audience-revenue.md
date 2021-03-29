@@ -41,7 +41,7 @@ seo:
       value: /images/creativedestruction.jpeg
       relativeUrl: true
 layout: post
-thumb_img_path: images/creativedestruction.jpeg
+thumb_img_path: images/unique-strawberry.png
 content_img_path: images/Screen Shot 2021-03-29 at 11.55.05 AM.png
 ---
 To survive and thrive, digital and legacy publishers must figure out how to generate sustainable digital revenue at an increasing rate.  For the most part, digital revenue strategies have not demonstrated the ability to support the existing cost structure, let alone support growth and expansion.
