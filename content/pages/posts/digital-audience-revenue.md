@@ -49,11 +49,15 @@ To survive and thrive, digital and legacy publishers must figure out how to gene
 As part of a broad strategic vision, publishers should think about the following questions.
 
 What is the relationship between audience and revenue?
+
 How do search engines and social platforms impact audience growth, engagement and loyalty?
+
 How do changes in audience and digital authority impact revenue?
+
 What is the optimal mix of audience and agency revenue?
 
-The Relationship Between Audience and Revenue
+### The Relationship Between Audience and Revenue
+
 For news organizations, including local newspapers, the relationship between the publisher and the audience is based on the size of the audience.  The more people that are reading the publication, in print or digital format, the lower the probability that an individual reader is also an advertiser (or potential advertiser).  This relationship plays out at newspapers and radio stations in smaller towns across the United States.
 
 ![](/images/Screen%20Shot%202021-03-28%20at%207.35.39%20PM.png)
