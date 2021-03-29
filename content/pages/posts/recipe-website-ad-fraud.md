@@ -1,6 +1,5 @@
 ---
 title: Ad Fraud on Recipe Websites
-subtitle: Part 2
 date: '2021-03-27'
 thumb_img_alt: Icelandic horses
 content_img_alt: Icelandic horses
