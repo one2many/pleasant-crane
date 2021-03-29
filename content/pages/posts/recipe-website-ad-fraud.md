@@ -4,9 +4,10 @@ date: '2021-03-29'
 thumb_img_alt: Icelandic horses
 content_img_alt: Icelandic horses
 excerpt: >-
-  Historically, news organizations received at least 80%of revenue from
-  advertising. We read about ad revenue drops and newsroom layoffs, with little
-  to no analysis of advertising categories that support the newsroom.
+  Ad fraud seems to be everywhere these days. In search of brand-safe content,
+  advertisers and agencies use keyword filters that punish publishers for
+  covering topics that are important to their audiences. Brands are all seeking
+  "brand safe" environments to show their ads.
 seo:
   title: Technology did not kill newspapers
   description: >-
