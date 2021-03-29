@@ -1,5 +1,5 @@
 ---
-title: 'The Relationship Between Audience, Revenue, and Digital Presence'
+title: Ad Fraud on Recipe Websites
 subtitle: Part 2
 date: '2021-03-27'
 thumb_img_alt: Icelandic horses
