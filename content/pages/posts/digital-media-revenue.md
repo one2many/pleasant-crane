@@ -1,6 +1,6 @@
 ---
 title: 'The Relationship Between Audience, Revenue, and Digital Presence'
-subtitle: Part 1
+subtitle: Part 2
 date: '2021-03-27'
 thumb_img_alt: Icelandic horses
 content_img_alt: Icelandic horses
