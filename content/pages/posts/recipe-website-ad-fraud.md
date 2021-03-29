@@ -40,7 +40,7 @@ seo:
       value: /images/creativedestruction.jpeg
       relativeUrl: true
 layout: post
-thumb_img_path: images/unique-strawberry.png
+thumb_img_path: images/marvelous-paprika.png
 content_img_path: images/blogimagerecipe.png
 ---
 Ad fraud seems to be everywhere these days. In search of brand-safe content, advertisers and agencies use keyword filters that punish publishers for covering topics that are important to their audiences. Brands are all seeking "brand safe" environments to show their ads. And brand safety tech is flagging news sites as not safe because they write about the Duchess of Sus(sex). So where's the last safe haven for ads? Recipe sites -- probably because there's no chance they will contain words like shooting, blood, or "virus." But not so fast...
