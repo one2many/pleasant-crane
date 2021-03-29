@@ -1,5 +1,5 @@
 ---
-title: Stop saying that technology killed newspapers
+title: 'The Relationship between Audience, Revenue & Digital Presence'
 subtitle: lorem-ipsum
 date: '2021-03-27'
 thumb_img_alt: Icelandic horses
