@@ -80,15 +80,15 @@ Differentiated digital products/services
 
 Private marketplaces sit in between passive revenue from public networks and revenue sold by a sales person.  For large sites or groups of medium/large sites, the incremental CPM earned from running a private market, or participating in multiple private markets, can provide inventory control and increased revenue opportunities.
 
-#### Audience Revenue Components and MetricOnline Display
+#### Audience Revenue Components and Metrics: Online Display
 
 With the ability to have passive revenue from ad network spots along side or in place of sold ad units, online display is probably the most flexible product. Also, online display is the most like the legacy media (print, tv, radio) ad buy, or at least it was until the launch of ad blockers.
 
 For online display, publishers have the following levers to increase revenue:
 
-**Increasing ad positions or adding remnant ads: **Potential to reduce long term revenue sustainability and negatively impact user experience.  There is a tradeoff between user experience and display ad revenue.
+\*\*Increasing ad positions or adding remnant ads: \*\*Potential to reduce long term revenue sustainability and negatively impact user experience.  There is a tradeoff between user experience and display ad revenue.
 **Increase direct CPM and/or reduce ad spots:** requires education and training of both advertisers and sales team, but can lead to increased revenue.  Also requires strong creative and reporting
-**Increase average CPM/RPM: **instead of focusing on campaigns, advertisers are sold a mix of sponsorship (share of voice) and impression campaigns to reach an average CPM per page.  This strategy can include remnant ads as well. Offer Non-standard ad units as well as IAB Rising Star ad units will generate a better return for advertisers and more sustainable revenue
+\*\*Increase average CPM/RPM: \*\*instead of focusing on campaigns, advertisers are sold a mix of sponsorship (share of voice) and impression campaigns to reach an average CPM per page.  This strategy can include remnant ads as well. Offer Non-standard ad units as well as IAB Rising Star ad units will generate a better return for advertisers and more sustainable revenue
 
 #### Audience Revenue Metrics
 
