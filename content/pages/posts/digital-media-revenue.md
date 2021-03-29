@@ -54,7 +54,7 @@ In legacy media advertising, audience revenue is primary because advertisers wan
 
 However, I have not once heard anyone say, "Did you see that ad on the TVnewspaperRadio.com site for $1 off any burger combo?"  It just does not happen.  The audience tolerates ads, but does not expect them to be local or relevant.  Also, the very nature of display ads requires that the reader stops reading and clicks on something that will likely not be as interesting as the article.
 
-With that in mind, we have these two broad definitions:
+With that in mind, we have these broad definitions:
 
 **Audience Revenue** - advertising dollars earned to reach people that view publisher content
 **Digital Subscriptions** (potentially);- individual or groups paying to access publisher content
