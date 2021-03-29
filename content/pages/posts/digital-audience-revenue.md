@@ -55,3 +55,12 @@ What is the optimal mix of audience and agency revenue?
 
 The Relationship Between Audience and Revenue
 For news organizations, including local newspapers, the relationship between the publisher and the audience is based on the size of the audience.  The more people that are reading the publication, in print or digital format, the lower the probability that an individual reader is also an advertiser (or potential advertiser).  This relationship plays out at newspapers and radio stations in smaller towns across the United States.
+
+![](/images/Screen%20Shot%202021-03-28%20at%207.35.39%20PM.png)
+While relatively obvious, this chart illustrates the difficulty many news organizations face in working with advertisers.  Simply, once a publication reaches a certain size, the print advertising cost to reach a target market is outside the budget of most local advertisers.  While there are other print products and geographic zones, there are not enough advertisers willing to spend enough money on these ads to support the cost of the publication.  
+
+As such, the most regional and national publications must rely on major and national accounts that have both the budget and the need to hit a broad geographic area, as illustrated below.
+
+![](/images/Screen%20Shot%202021-03-28%20at%207.36.25%20PM.png)
+
+For digital advertising, the costs to the publisher are lower, but the digital audience size is often so large that unless an advertiser is willing to spend significant amounts of money, not enough people will view the ad. However, just as with traditional print ads, a smaller, more local audience can generate significant returns for an advertiser.  And, as the advertiser is more likely to be a reader and potentially a paying subscriber, the connection to the product is much deeper.
